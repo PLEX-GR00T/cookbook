@@ -24,3 +24,8 @@ Collaboration :
 5) git fetch
 6) git merge
 
+Commands for moving Commits around : 
+1) git branch
+2) git reset
+3) git cherry-pick
+4) git rebase

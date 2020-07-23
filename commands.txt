@@ -1,0 +1,20 @@
+Just the commands that i have learned : 
+
+Making commits:
+---------------------------
+1) git init
+2) git config
+3) git status 
+4) git add
+5) git commit
+
+Viewing commits:
+---------------------------
+1) git log
+2) git show
+3) git diff
+4) git checkout
+
+Collaboration : 
+---------------------------
+
